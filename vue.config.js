@@ -1,3 +1,1 @@
-module.exports = {
-  publicPath: "/priviledger-landing/"
-};
+module.exports = {};
