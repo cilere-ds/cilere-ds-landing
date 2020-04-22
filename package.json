@@ -49,7 +49,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "pre-push": "vue-cli-service build && gh-pages -d dist"
+      "pre-push": "vue-cli-service build && echo priviledger.fr > dist/CNAME && gh-pages -d dist"
     }
   },
   "lint-staged": {
