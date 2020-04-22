@@ -32,7 +32,7 @@
           </p>
         </div>
         <div class="flex justify-center pb-3 text-grey-dark">
-          <div>blabla</div>
+          <div>latest XXX from Paris, London, Milan ?? more</div>
         </div>
       </div>
     </div>
