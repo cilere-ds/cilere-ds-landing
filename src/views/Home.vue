@@ -1,7 +1,7 @@
 <template>
   <div
     class="flex h-screen"
-    style="background: #1d1626 url(/background.png) no-repeat center center;"
+    style="background: #1d1626 url(/img/background.png) no-repeat center center;"
   >
     <div class="m-auto">
       <div class="text-white font-bold text-xl">Welcome!</div>
@@ -18,7 +18,7 @@
         <div class="flex justify-center">
           <img
             style="width:80px"
-            src="/logo.jpg"
+            src="/img/logo.jpg"
             class="rounded-full border-solid border-white border-2"
           />
         </div>
