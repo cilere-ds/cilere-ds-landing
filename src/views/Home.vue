@@ -1,7 +1,7 @@
 <template>
   <div
     class="flex h-screen"
-    style="background: #1d1626 url(https://www.priviledger.fr/medias/imports/trame_background_footer_download.png) no-repeat center center;"
+    style="background: #1d1626 url(/background.png) no-repeat center center;"
   >
     <div class="m-auto">
       <div class="text-white font-bold text-xl">Welcome!</div>
@@ -18,7 +18,7 @@
         <div class="flex justify-center">
           <img
             style="width:80px"
-            src="https://res.cloudinary.com/dlapqlczt/image/upload/v1587497951/priviledger/WEB_patch_190319_glisse%CC%81_e_s_ays4eq.jpg"
+            src="/logo.jpg"
             class="rounded-full border-solid border-white border-2"
           />
         </div>
