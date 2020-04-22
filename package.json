@@ -1,0 +1,13 @@
+{
+  "name": "priviledger-landing",
+  "version": "1.0.0",
+  "repository": "git@github.com:cilere-ds/priviledger-landing.git",
+  "scripts": {
+    "deploy": "npx gh-pages -d web"
+  },
+  "author": "cto <cto@cilere.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
