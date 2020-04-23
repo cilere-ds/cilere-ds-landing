@@ -1,1 +1,7 @@
-module.exports = {};
+module.exports = {
+  pwa: {
+    iconPaths: {
+      favicon32: "img/favicon.ico"
+    }
+  }
+};
