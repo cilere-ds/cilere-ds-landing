@@ -17,7 +17,7 @@
         </p>
         <div class="flex justify-center">
           <img
-            style="width:80px"
+            style="width:80px;height:80px"
             src="/img/logo.jpg"
             class="rounded-full border-solid border-white border-2"
           />
