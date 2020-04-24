@@ -1,5 +1,9 @@
 module.exports = {
   theme: {
+    fontFamily: {
+      lato: ["Lato"],
+      romina: ["Romina"]
+    },
     screen: {
       sm: "640px",
       md: "768px",
@@ -8,7 +12,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        grey: "#2A2C35",
+        grey: "#1F1628",
         blue: "#080875"
       }
     }
