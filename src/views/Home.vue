@@ -20,14 +20,14 @@
         </p>
         <div class="flex py-5 justify-center">
           <img
-            style="width:80px;height:80px"
+            style="width: 80px; height: 80px;"
             src="/img/logo.jpg"
             class="rounded-full border-solid border-white border-2"
           />
         </div>
         <div class="text-center px-3 pb-6 pt-2">
           <h3 class="text-sm font-romina font-medium">贝维悠悦</h3>
-          <p class="mt-2 font-romina font-medium ">
+          <p class="mt-2 font-romina font-medium">
             P R I V I L E D G E R
           </p>
           <p class="mt-2 font-lato text-xs font-light">
@@ -35,7 +35,7 @@
           </p>
         </div>
         <div class="flex justify-center font-normal pb-3">
-          <div>Lastest trends from Paris, London, Milan & more</div>
+          <div>The Lastest trends from Paris, London, Milan & more</div>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ export default {
   methods: {
     toPriviledger() {
       window.location.href = "https://www.priviledger.fr/";
-    }
-  }
+    },
+  },
 };
 </script>
