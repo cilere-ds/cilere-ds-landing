@@ -35,7 +35,7 @@
           </p>
         </div>
         <div class="flex justify-center font-normal pb-3">
-          <div>The Lastest trends from Paris, London, Milan & more</div>
+          <div>The lastest trends from Paris, London, Milan & more</div>
         </div>
       </div>
     </div>
