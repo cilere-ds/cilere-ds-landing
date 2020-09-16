@@ -5,7 +5,7 @@
   >
     <div class="m-auto">
       <div class="text-white font-lato font-normal text-xl">Welcome!</div>
-      <div class="text-white font-lato font-bold text-xl py-2">
+      <div class="text-white font-lato font-black text-xl py-2">
         丝蓝数码策略
       </div>
       <div class="text-white font-lato font-black text-3xl py-2">
@@ -27,15 +27,15 @@
         </div>
         <div class="text-center px-3 pb-6 pt-2">
           <h3 class="text-sm font-romina font-medium">贝维悠悦</h3>
-          <p class="mt-2 font-romina font-medium">
-            P R I V I L E D G E R
-          </p>
-          <p class="mt-2 font-lato text-xs font-light">
+          <p class="mt-2 font-romina font-medium">P R I V I L E D G E R</p>
+          <p class="mt-2 font-loto text-xs font-light">
             TREASURES AROUND THE GLOBAL
           </p>
         </div>
         <div class="flex justify-center font-normal pb-3">
-          <div>The lastest trends from Paris, London, Milan & more</div>
+          <div class="fontFarnhamDisp">
+            The lastest trends from Paris, London, Milan & more
+          </div>
         </div>
       </div>
     </div>
@@ -52,3 +52,8 @@ export default {
   },
 };
 </script>
+<style>
+.fontFarnhamDisp {
+  font-family: farnhamDisp;
+}
+</style>
